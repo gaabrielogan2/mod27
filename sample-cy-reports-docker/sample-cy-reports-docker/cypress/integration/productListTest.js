@@ -1,4 +1,3 @@
-/// <reference types="cypress" />
 import { productsPage, productDetailsPage } from '../support/pages'
 
 describe('Product List', () => {
